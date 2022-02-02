@@ -15,3 +15,9 @@ The BSL is a Idea from MariaDB and is in general a Way to offer OpenSource while
 You will find in all newer Repos a ```licenses``` folder and a LICENSE.txt file that points to the ```licenses``` folder that contains everything
 related to the current Software Product. Also every single file may contain additional copyright Information if it not already got transfered to the
 ```licenses``` folder.
+
+## Cross Platform Desktop Software with Audio/Video support.
+As my Main Platform is Chromium most time for all Desktop Software this information is importent!
+
+>### License and Patent Fee for MP3 & H.264 codecs
+> Using MP3 and H.264 codecs requires you to pay attention to the patent royalties and the license of the source code. Consult a lawyer if you do not understand the licensing constraints and using patented media formats in your application. For more information about the license of the source code, check [here](https://chromium.googlesource.com/chromium/third_party/ffmpeg.git/+/master/CREDITS.chromium).
