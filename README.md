@@ -1,5 +1,5 @@
 # licenses
-A Repository for Lawyers &amp; Stackholders as also Consumers of my Software Products. 
+A Repository for Lawyers &amp; Stakeholders as also Consumers of Frank Lemanschik's written Source Code.
 
 ## General Main License Concept
 I integrate every license as needed and redistribute it if it is possible else i resell the needed licenses so that you do not need to worry.
